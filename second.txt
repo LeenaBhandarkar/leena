@@ -1,0 +1,5 @@
+ hello git 
+we are learning git
+todays date is 1 nov 
+2023
+
